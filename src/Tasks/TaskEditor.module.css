@@ -1,0 +1,13 @@
+.block {
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+.button {
+ padding: 20px 50px;
+ font-size: 20px;
+ background-color: blueviolet;
+ color: whitesmoke;
+ border: 1.5px solid rgb(65, 63, 63);
+ outline: none;
+}
